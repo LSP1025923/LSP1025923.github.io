@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Eechoの小站</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Eechoの小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>1784886491@qq.com (Eecho)</managingEditor>
+    <webMaster>1784886491@qq.com (Eecho)</webMaster>
+    <copyright>© 2024 - 2025 Eechoの小站 All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Space</title>
+      <link>/tags/space/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <author>1784886491@qq.com (Eecho)</author>
+      <guid>/tags/space/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
