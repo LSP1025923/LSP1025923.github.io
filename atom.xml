@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-01-15T09:26:55.526Z</updated>
+  <updated>2026-01-15T09:37:53.279Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Moodle</title>
-    <link href="https://lsp1025923.github.io/2026/01/15/Moodle/"/>
-    <id>https://lsp1025923.github.io/2026/01/15/Moodle/</id>
-    <published>2026-01-15T09:25:34.000Z</published>
-    <updated>2026-01-15T09:26:55.526Z</updated>
+    <title>Moodle2</title>
+    <link href="https://lsp1025923.github.io/2026/01/15/Moodle2/"/>
+    <id>https://lsp1025923.github.io/2026/01/15/Moodle2/</id>
+    <published>2026-01-15T09:37:12.000Z</published>
+    <updated>2026-01-15T09:37:53.279Z</updated>
     
     
       
@@ -36,7 +36,7 @@
     
     
     
-    <category term="Maze_sec" scheme="https://lsp1025923.github.io/tags/Maze-sec/"/>
+    <category term="maze_sec" scheme="https://lsp1025923.github.io/tags/maze-sec/"/>
     
   </entry>
   
