@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-01-15T09:53:00.141Z</updated>
+  <updated>2026-01-15T09:55:20.055Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://lsp1025923.github.io/2026/01/15/MazeSec-Moodle/"/>
     <id>https://lsp1025923.github.io/2026/01/15/MazeSec-Moodle/</id>
     <published>2026-01-15T09:49:52.000Z</published>
-    <updated>2026-01-15T09:53:00.141Z</updated>
+    <updated>2026-01-15T09:55:20.055Z</updated>
     
     
       
@@ -36,7 +36,9 @@
     
     
     
-    <category term="Mazesec,靶机" scheme="https://lsp1025923.github.io/tags/Mazesec-%E9%9D%B6%E6%9C%BA/"/>
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
     
   </entry>
   
