@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-01-15T09:55:20.055Z</updated>
+  <updated>2026-01-16T06:52:46.797Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HackMyVm_Meltdown</title>
+    <link href="https://lsp1025923.github.io/2026/01/16/HackMyVm-Meltdown/"/>
+    <id>https://lsp1025923.github.io/2026/01/16/HackMyVm-Meltdown/</id>
+    <published>2026-01-16T06:51:29.000Z</published>
+    <updated>2026-01-16T06:52:46.797Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Meltdown&quot;&gt;&lt;a href=&quot;#Meltdown&quot; class=&quot;headerlink&quot; title=&quot;Meltdown&quot;&gt;&lt;/a&gt;Meltdown&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="HackMyVM" scheme="https://lsp1025923.github.io/tags/HackMyVM/"/>
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>MazeSec_Moodle</title>
@@ -36,9 +61,9 @@
     
     
     
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
-    
     <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
     
   </entry>
   
