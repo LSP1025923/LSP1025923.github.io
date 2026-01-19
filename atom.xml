@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-01-17T04:44:08.831Z</updated>
+  <updated>2026-01-19T03:15:30.680Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-113</title>
+    <link href="https://lsp1025923.github.io/2026/01/19/MazeSec-113/"/>
+    <id>https://lsp1025923.github.io/2026/01/19/MazeSec-113/</id>
+    <published>2026-01-19T03:14:59.000Z</published>
+    <updated>2026-01-19T03:15:30.680Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;113&quot;&gt;&lt;a href=&quot;#113&quot; class=&quot;headerlink&quot; title=&quot;113&quot;&gt;&lt;/a&gt;113&lt;/h1&gt;&lt;p&gt;10.156.131.105&lt;/p&gt;
+&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>MazeSec-112</title>
