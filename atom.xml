@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-01-22T05:18:15.695Z</updated>
+  <updated>2026-01-22T11:17:10.213Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -17,15 +17,53 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>TheHackersLabs-Brocoli</title>
+    <link href="https://lsp1025923.github.io/2026/01/22/TheHackersLabs-Brocoli/"/>
+    <id>https://lsp1025923.github.io/2026/01/22/TheHackersLabs-Brocoli/</id>
+    <published>2026-01-22T11:16:20.000Z</published>
+    <updated>2026-01-22T11:17:10.213Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Brocoli&quot;&gt;&lt;a href=&quot;#Brocoli&quot; class=&quot;headerlink&quot; title=&quot;Brocoli&quot;&gt;&lt;/a&gt;Brocoli&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MazeSec-Worm</title>
     <link href="https://lsp1025923.github.io/2026/01/22/MazeSec-Worm/"/>
     <id>https://lsp1025923.github.io/2026/01/22/MazeSec-Worm/</id>
     <published>2026-01-22T05:16:54.000Z</published>
-    <updated>2026-01-22T05:18:15.695Z</updated>
+    <updated>2026-01-22T11:19:27.641Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Worm&quot;&gt;&lt;a href=&quot;#Worm&quot; class=&quot;headerlink&quot; title=&quot;Worm&quot;&gt;&lt;/a&gt;Worm&lt;/h1&gt;&lt;p&gt;192.168.100.47&lt;/p&gt;
+&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot;</summary>
+        
+      
     
     
     
     
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
     
   </entry>
   
@@ -34,8 +72,17 @@
     <link href="https://lsp1025923.github.io/2026/01/22/MazeSec-115final/"/>
     <id>https://lsp1025923.github.io/2026/01/22/MazeSec-115final/</id>
     <published>2026-01-22T04:05:42.000Z</published>
-    <updated>2026-01-22T04:09:57.159Z</updated>
+    <updated>2026-01-22T11:18:22.845Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;敬请期待&lt;/p&gt;
+</summary>
+        
+      
     
     
     
