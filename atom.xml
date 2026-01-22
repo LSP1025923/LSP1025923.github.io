@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-01-21T06:44:53.041Z</updated>
+  <updated>2026-01-22T04:09:57.159Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-115final</title>
+    <link href="https://lsp1025923.github.io/2026/01/22/MazeSec-115final/"/>
+    <id>https://lsp1025923.github.io/2026/01/22/MazeSec-115final/</id>
+    <published>2026-01-22T04:05:42.000Z</published>
+    <updated>2026-01-22T04:09:57.159Z</updated>
+    
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-Mermelada</title>
