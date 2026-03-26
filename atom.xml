@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-03-26T06:28:06.449Z</updated>
+  <updated>2026-03-26T07:34:26.338Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-NodeCeption</title>
+    <link href="https://lsp1025923.github.io/2026/03/26/TheHackersLabs-NodeCeption/"/>
+    <id>https://lsp1025923.github.io/2026/03/26/TheHackersLabs-NodeCeption/</id>
+    <published>2026-03-26T07:33:33.000Z</published>
+    <updated>2026-03-26T07:34:26.338Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;NodeCeption&quot;&gt;&lt;a href=&quot;#NodeCeption&quot; class=&quot;headerlink&quot; title=&quot;NodeCeption&quot;&gt;&lt;/a&gt;NodeCeption&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-Dragon</title>
@@ -481,31 +506,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Helpdesk&quot;&gt;&lt;a href=&quot;#Helpdesk&quot; class=&quot;headerlink&quot; title=&quot;Helpdesk&quot;&gt;&lt;/a&gt;Helpdesk&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="HackMyVM" scheme="https://lsp1025923.github.io/tags/HackMyVM/"/>
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HackMyVm-Motto</title>
-    <link href="https://lsp1025923.github.io/2026/01/19/HackMyVm-Motto/"/>
-    <id>https://lsp1025923.github.io/2026/01/19/HackMyVm-Motto/</id>
-    <published>2026-01-19T06:55:14.000Z</published>
-    <updated>2026-01-19T11:13:15.285Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Motto&quot;&gt;&lt;a href=&quot;#Motto&quot; class=&quot;headerlink&quot; title=&quot;Motto&quot;&gt;&lt;/a&gt;Motto&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
         
       
     
