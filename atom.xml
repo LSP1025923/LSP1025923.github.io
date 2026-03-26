@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-03-26T07:34:26.338Z</updated>
+  <updated>2026-03-26T08:11:25.677Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-Sedition</title>
+    <link href="https://lsp1025923.github.io/2026/03/26/TheHackersLabs-Sedition/"/>
+    <id>https://lsp1025923.github.io/2026/03/26/TheHackersLabs-Sedition/</id>
+    <published>2026-03-26T08:09:25.000Z</published>
+    <updated>2026-03-26T08:11:25.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Sedition&quot;&gt;&lt;a href=&quot;#Sedition&quot; class=&quot;headerlink&quot; title=&quot;Sedition&quot;&gt;&lt;/a&gt;Sedition&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-NodeCeption</title>
@@ -481,31 +506,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Lazzycorp&quot;&gt;&lt;a href=&quot;#Lazzycorp&quot; class=&quot;headerlink&quot; title=&quot;Lazzycorp&quot;&gt;&lt;/a&gt;Lazzycorp&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="HackMyVM" scheme="https://lsp1025923.github.io/tags/HackMyVM/"/>
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HackMyVm-Helpdesk</title>
-    <link href="https://lsp1025923.github.io/2026/01/19/HackMyVm-Helpdesk/"/>
-    <id>https://lsp1025923.github.io/2026/01/19/HackMyVm-Helpdesk/</id>
-    <published>2026-01-19T08:40:01.000Z</published>
-    <updated>2026-01-19T11:12:52.930Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Helpdesk&quot;&gt;&lt;a href=&quot;#Helpdesk&quot; class=&quot;headerlink&quot; title=&quot;Helpdesk&quot;&gt;&lt;/a&gt;Helpdesk&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
         
       
     
