@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-04-12T07:35:22.939Z</updated>
+  <updated>2026-04-14T10:00:37.486Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-Calc.</title>
+    <link href="https://lsp1025923.github.io/2026/04/14/MazeSec-Calc/"/>
+    <id>https://lsp1025923.github.io/2026/04/14/MazeSec-Calc/</id>
+    <published>2026-04-14T09:58:54.000Z</published>
+    <updated>2026-04-14T10:00:37.486Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Calc&quot;&gt;&lt;a href=&quot;#Calc&quot; class=&quot;headerlink&quot; title=&quot;Calc.&quot;&gt;&lt;/a&gt;Calc.&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-Campana_feliz</title>
@@ -489,32 +514,6 @@
     <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
     
     <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MazeSec-Worm</title>
-    <link href="https://lsp1025923.github.io/2026/01/22/MazeSec-Worm/"/>
-    <id>https://lsp1025923.github.io/2026/01/22/MazeSec-Worm/</id>
-    <published>2026-01-22T05:16:54.000Z</published>
-    <updated>2026-01-22T11:19:27.641Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Worm&quot;&gt;&lt;a href=&quot;#Worm&quot; class=&quot;headerlink&quot; title=&quot;Worm&quot;&gt;&lt;/a&gt;Worm&lt;/h1&gt;&lt;p&gt;192.168.100.47&lt;/p&gt;
-&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
     
   </entry>
   
