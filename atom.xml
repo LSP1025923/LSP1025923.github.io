@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-04-14T12:08:06.846Z</updated>
+  <updated>2026-04-19T13:45:32.949Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-Group</title>
+    <link href="https://lsp1025923.github.io/2026/04/19/MazeSec-Group/"/>
+    <id>https://lsp1025923.github.io/2026/04/19/MazeSec-Group/</id>
+    <published>2026-04-19T13:39:29.000Z</published>
+    <updated>2026-04-19T13:45:32.949Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Group&quot;&gt;&lt;a href=&quot;#Group&quot; class=&quot;headerlink&quot; title=&quot;Group&quot;&gt;&lt;/a&gt;Group&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-CryptoLabyrinth</title>
@@ -480,31 +505,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;ZAPP&quot;&gt;&lt;a href=&quot;#ZAPP&quot; class=&quot;headerlink&quot; title=&quot;ZAPP&quot;&gt;&lt;/a&gt;ZAPP&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-Inj3ctCrew</title>
-    <link href="https://lsp1025923.github.io/2026/01/22/TheHackersLabs-Inj3ctCrew/"/>
-    <id>https://lsp1025923.github.io/2026/01/22/TheHackersLabs-Inj3ctCrew/</id>
-    <published>2026-01-22T12:11:47.000Z</published>
-    <updated>2026-01-22T12:12:37.959Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Inj3ctCrew&quot;&gt;&lt;a href=&quot;#Inj3ctCrew&quot; class=&quot;headerlink&quot; title=&quot;Inj3ctCrew&quot;&gt;&lt;/a&gt;Inj3ctCrew&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
         
       
     
