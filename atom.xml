@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Eecho&amp;小站</title>
   <icon>https://lsp1025923.github.io/img/avatar.png</icon>
-  <subtitle>沉淀</subtitle>
+  
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
