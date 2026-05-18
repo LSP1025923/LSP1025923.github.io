@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-14T11:40:38.923Z</updated>
+  <updated>2026-05-18T07:13:03.164Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-HGBE</title>
+    <link href="https://lsp1025923.github.io/2026/05/18/MazeSec-HGBE/"/>
+    <id>https://lsp1025923.github.io/2026/05/18/MazeSec-HGBE/</id>
+    <published>2026-05-18T07:11:56.000Z</published>
+    <updated>2026-05-18T07:13:03.164Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;HGBE&quot;&gt;&lt;a href=&quot;#HGBE&quot; class=&quot;headerlink&quot; title=&quot;HGBE&quot;&gt;&lt;/a&gt;HGBE&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;靶机：HGBE&lt;br&gt;作者：群主&lt;br&gt;靶机ID:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>MazeSec-Vault</title>
@@ -480,31 +506,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Link-测试&quot;&gt;&lt;a href=&quot;#Link-测试&quot; class=&quot;headerlink&quot; title=&quot;Link 测试&quot;&gt;&lt;/a&gt;Link 测试&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MazeSec-MM</title>
-    <link href="https://lsp1025923.github.io/2026/04/25/MazeSec-MM/"/>
-    <id>https://lsp1025923.github.io/2026/04/25/MazeSec-MM/</id>
-    <published>2026-04-25T11:17:09.000Z</published>
-    <updated>2026-04-27T06:51:17.391Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;MM-测试&quot;&gt;&lt;a href=&quot;#MM-测试&quot; class=&quot;headerlink&quot; title=&quot;MM 测试&quot;&gt;&lt;/a&gt;MM 测试&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
         
       
     
