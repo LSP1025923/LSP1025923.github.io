@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-18T07:13:03.164Z</updated>
+  <updated>2026-05-18T08:08:28.243Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-Press</title>
+    <link href="https://lsp1025923.github.io/2026/05/18/MazeSec-Press/"/>
+    <id>https://lsp1025923.github.io/2026/05/18/MazeSec-Press/</id>
+    <published>2026-05-18T08:06:03.000Z</published>
+    <updated>2026-05-18T08:08:28.243Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Press&quot;&gt;&lt;a href=&quot;#Press&quot; class=&quot;headerlink&quot; title=&quot;Press&quot;&gt;&lt;/a&gt;Press&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;靶机：Press&lt;br&gt;作者：群主&lt;br&gt;靶机ID:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>MazeSec-HGBE</title>
@@ -481,31 +507,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Show-测试&quot;&gt;&lt;a href=&quot;#Show-测试&quot; class=&quot;headerlink&quot; title=&quot;Show 测试&quot;&gt;&lt;/a&gt;Show 测试&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MazeSec-Link2</title>
-    <link href="https://lsp1025923.github.io/2026/04/25/MazeSec-Link2/"/>
-    <id>https://lsp1025923.github.io/2026/04/25/MazeSec-Link2/</id>
-    <published>2026-04-25T11:18:26.000Z</published>
-    <updated>2026-04-27T06:51:06.323Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Link-测试&quot;&gt;&lt;a href=&quot;#Link-测试&quot; class=&quot;headerlink&quot; title=&quot;Link 测试&quot;&gt;&lt;/a&gt;Link 测试&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
         
       
     
