@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-19T07:12:17.762Z</updated>
+  <updated>2026-05-19T07:48:15.453Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-PizzaHot</title>
+    <link href="https://lsp1025923.github.io/2026/05/19/TheHackersLabs-PizzaHot/"/>
+    <id>https://lsp1025923.github.io/2026/05/19/TheHackersLabs-PizzaHot/</id>
+    <published>2026-05-19T07:46:55.000Z</published>
+    <updated>2026-05-19T07:48:15.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;PizzaHot&quot;&gt;&lt;a href=&quot;#PizzaHot&quot; class=&quot;headerlink&quot; title=&quot;PizzaHot&quot;&gt;&lt;/a&gt;PizzaHot&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-Goiko</title>
@@ -482,31 +507,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Paella&quot;&gt;&lt;a href=&quot;#Paella&quot; class=&quot;headerlink&quot; title=&quot;Paella&quot;&gt;&lt;/a&gt;Paella&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-Templo</title>
-    <link href="https://lsp1025923.github.io/2026/04/30/TheHackersLabs-Templo/"/>
-    <id>https://lsp1025923.github.io/2026/04/30/TheHackersLabs-Templo/</id>
-    <published>2026-04-29T17:32:08.000Z</published>
-    <updated>2026-04-29T17:32:35.762Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Templo&quot;&gt;&lt;a href=&quot;#Templo&quot; class=&quot;headerlink&quot; title=&quot;Templo&quot;&gt;&lt;/a&gt;Templo&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
         
       
     
