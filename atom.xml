@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-19T09:07:40.304Z</updated>
+  <updated>2026-05-19T09:51:34.958Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-Caldo_de_Avecren</title>
+    <link href="https://lsp1025923.github.io/2026/05/19/TheHackersLabs-Caldo-de-Avecren/"/>
+    <id>https://lsp1025923.github.io/2026/05/19/TheHackersLabs-Caldo-de-Avecren/</id>
+    <published>2026-05-19T09:50:28.000Z</published>
+    <updated>2026-05-19T09:51:34.958Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Caldo-de-Avecren&quot;&gt;&lt;a href=&quot;#Caldo-de-Avecren&quot; class=&quot;headerlink&quot; title=&quot;Caldo de Avecren&quot;&gt;&lt;/a&gt;Caldo de Avecren&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-PinguPing</title>
@@ -482,31 +507,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;ProB2&quot;&gt;&lt;a href=&quot;#ProB2&quot; class=&quot;headerlink&quot; title=&quot;ProB2&quot;&gt;&lt;/a&gt;ProB2&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MazeSec-Open2</title>
-    <link href="https://lsp1025923.github.io/2026/05/08/MazeSec-Open2/"/>
-    <id>https://lsp1025923.github.io/2026/05/08/MazeSec-Open2/</id>
-    <published>2026-05-08T10:43:27.000Z</published>
-    <updated>2026-05-08T10:49:19.940Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Open2&quot;&gt;&lt;a href=&quot;#Open2&quot; class=&quot;headerlink&quot; title=&quot;Open2&quot;&gt;&lt;/a&gt;Open2&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
         
       
     
