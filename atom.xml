@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-19T10:36:26.841Z</updated>
+  <updated>2026-05-20T07:36:02.749Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-LNNN</title>
+    <link href="https://lsp1025923.github.io/2026/05/20/MazeSec-LNNN/"/>
+    <id>https://lsp1025923.github.io/2026/05/20/MazeSec-LNNN/</id>
+    <published>2026-05-20T07:35:00.000Z</published>
+    <updated>2026-05-20T07:36:02.749Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;LNNN&quot;&gt;&lt;a href=&quot;#LNNN&quot; class=&quot;headerlink&quot; title=&quot;LNNN&quot;&gt;&lt;/a&gt;LNNN&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;靶机：LNNN&lt;br&gt;作者：群主&lt;br&gt;靶机ID:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-SinPlomo98</title>
@@ -482,31 +508,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Pom&quot;&gt;&lt;a href=&quot;#Pom&quot; class=&quot;headerlink&quot; title=&quot;Pom&quot;&gt;&lt;/a&gt;Pom&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MazeSec-RZDfly</title>
-    <link href="https://lsp1025923.github.io/2026/05/08/MazeSec-RZDfly/"/>
-    <id>https://lsp1025923.github.io/2026/05/08/MazeSec-RZDfly/</id>
-    <published>2026-05-08T10:47:14.000Z</published>
-    <updated>2026-05-08T10:49:23.484Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;RZDfly&quot;&gt;&lt;a href=&quot;#RZDfly&quot; class=&quot;headerlink&quot; title=&quot;RZDfly&quot;&gt;&lt;/a&gt;RZDfly&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
         
       
     
