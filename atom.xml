@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-21T21:47:37.888Z</updated>
+  <updated>2026-05-21T22:31:29.249Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-Blind_Relay</title>
+    <link href="https://lsp1025923.github.io/2026/05/22/TheHackersLabs-Blind-Relay/"/>
+    <id>https://lsp1025923.github.io/2026/05/22/TheHackersLabs-Blind-Relay/</id>
+    <published>2026-05-21T22:30:38.000Z</published>
+    <updated>2026-05-21T22:31:29.249Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Blind-Relay&quot;&gt;&lt;a href=&quot;#Blind-Relay&quot; class=&quot;headerlink&quot; title=&quot;Blind Relay&quot;&gt;&lt;/a&gt;Blind Relay&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-El_Ninja</title>
@@ -489,31 +514,6 @@
     <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
     
     <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MazeSec-BlindSpot</title>
-    <link href="https://lsp1025923.github.io/2026/05/18/MazeSec-BlindSpot/"/>
-    <id>https://lsp1025923.github.io/2026/05/18/MazeSec-BlindSpot/</id>
-    <published>2026-05-18T15:34:29.000Z</published>
-    <updated>2026-05-18T15:36:57.668Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;BlindSpot&quot;&gt;&lt;a href=&quot;#BlindSpot&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
     
   </entry>
   
