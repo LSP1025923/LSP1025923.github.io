@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-21T16:52:05.979Z</updated>
+  <updated>2026-05-21T21:46:59.378Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-El_Ninja</title>
+    <link href="https://lsp1025923.github.io/2026/05/22/TheHackersLabs-El-Ninja/"/>
+    <id>https://lsp1025923.github.io/2026/05/22/TheHackersLabs-El-Ninja/</id>
+    <published>2026-05-21T21:46:23.000Z</published>
+    <updated>2026-05-21T21:46:59.378Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;El-Ninja&quot;&gt;&lt;a href=&quot;#El-Ninja&quot; class=&quot;headerlink&quot; title=&quot;El Ninja&quot;&gt;&lt;/a&gt;El Ninja&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-Operación_Pescador</title>
@@ -489,31 +514,6 @@
     <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
     
     <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-FindMe</title>
-    <link href="https://lsp1025923.github.io/2026/05/18/TheHackersLabs-FindMe/"/>
-    <id>https://lsp1025923.github.io/2026/05/18/TheHackersLabs-FindMe/</id>
-    <published>2026-05-18T12:11:24.000Z</published>
-    <updated>2026-05-18T12:12:04.541Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;FindMe&quot;&gt;&lt;a href=&quot;#FindMe&quot; class=&quot;headerlink&quot; title=&quot;FindMe&quot;&gt;&lt;/a&gt;FindMe&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
     
   </entry>
   
