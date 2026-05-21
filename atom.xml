@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-21T09:06:42.661Z</updated>
+  <updated>2026-05-21T10:00:43.634Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-Zapas_Guapas</title>
+    <link href="https://lsp1025923.github.io/2026/05/21/TheHackersLabs-Zapas-Guapas/"/>
+    <id>https://lsp1025923.github.io/2026/05/21/TheHackersLabs-Zapas-Guapas/</id>
+    <published>2026-05-21T10:00:06.000Z</published>
+    <updated>2026-05-21T10:00:43.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Zapas-Guapas&quot;&gt;&lt;a href=&quot;#Zapas-Guapas&quot; class=&quot;headerlink&quot; title=&quot;Zapas Guapas&quot;&gt;&lt;/a&gt;Zapas Guapas&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-Cyberpunk</title>
@@ -482,32 +507,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Vault&quot;&gt;&lt;a href=&quot;#Vault&quot; class=&quot;headerlink&quot; title=&quot;Vault&quot;&gt;&lt;/a&gt;Vault&lt;/h1&gt;&lt;h1 id=&quot;信息搜集&quot;&gt;&lt;a href=&quot;#信息搜集&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MazeSec-Local</title>
-    <link href="https://lsp1025923.github.io/2026/05/14/MazeSec-Local/"/>
-    <id>https://lsp1025923.github.io/2026/05/14/MazeSec-Local/</id>
-    <published>2026-05-14T11:28:28.000Z</published>
-    <updated>2026-05-14T11:29:00.266Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Local&quot;&gt;&lt;a href=&quot;#Local&quot; class=&quot;headerlink&quot; title=&quot;Local&quot;&gt;&lt;/a&gt;Local&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;靶机：Local&lt;br&gt;作者：Sublarge&lt;br&gt;靶机ID:</summary>
         
       
     
