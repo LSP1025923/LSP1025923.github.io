@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-21T22:33:38.141Z</updated>
+  <updated>2026-05-26T12:28:31.876Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-Believe</title>
+    <link href="https://lsp1025923.github.io/2026/05/26/MazeSec-Believe/"/>
+    <id>https://lsp1025923.github.io/2026/05/26/MazeSec-Believe/</id>
+    <published>2026-05-26T12:27:38.000Z</published>
+    <updated>2026-05-26T12:28:31.876Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Believe&quot;&gt;&lt;a href=&quot;#Believe&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-Blind_Relay</title>
@@ -480,31 +505,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;PizzaHot&quot;&gt;&lt;a href=&quot;#PizzaHot&quot; class=&quot;headerlink&quot; title=&quot;PizzaHot&quot;&gt;&lt;/a&gt;PizzaHot&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-Goiko</title>
-    <link href="https://lsp1025923.github.io/2026/05/19/TheHackersLabs-Goiko/"/>
-    <id>https://lsp1025923.github.io/2026/05/19/TheHackersLabs-Goiko/</id>
-    <published>2026-05-19T07:10:28.000Z</published>
-    <updated>2026-05-19T07:12:17.762Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Goiko&quot;&gt;&lt;a href=&quot;#Goiko&quot; class=&quot;headerlink&quot; title=&quot;Goiko&quot;&gt;&lt;/a&gt;Goiko&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
         
       
     
