@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-05-31T15:17:06.366Z</updated>
+  <updated>2026-06-01T08:46:04.165Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-Hackeando_al_Hacker</title>
+    <link href="https://lsp1025923.github.io/2026/06/01/TheHackersLabs-Hackeando-al-Hacker/"/>
+    <id>https://lsp1025923.github.io/2026/06/01/TheHackersLabs-Hackeando-al-Hacker/</id>
+    <published>2026-06-01T08:45:36.000Z</published>
+    <updated>2026-06-01T08:46:04.165Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hackeando-al-Hacker&quot;&gt;&lt;a href=&quot;#Hackeando-al-Hacker&quot; class=&quot;headerlink&quot; title=&quot;Hackeando al Hacker&quot;&gt;&lt;/a&gt;Hackeando al</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>MazeSec-Oauth</title>
@@ -482,31 +507,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Caldo-de-Avecren&quot;&gt;&lt;a href=&quot;#Caldo-de-Avecren&quot; class=&quot;headerlink&quot; title=&quot;Caldo de Avecren&quot;&gt;&lt;/a&gt;Caldo de Avecren&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-PinguPing</title>
-    <link href="https://lsp1025923.github.io/2026/05/19/TheHackersLabs-PinguPing/"/>
-    <id>https://lsp1025923.github.io/2026/05/19/TheHackersLabs-PinguPing/</id>
-    <published>2026-05-19T09:06:36.000Z</published>
-    <updated>2026-05-19T09:07:40.304Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;PinguPing&quot;&gt;&lt;a href=&quot;#PinguPing&quot; class=&quot;headerlink&quot; title=&quot;PinguPing&quot;&gt;&lt;/a&gt;PinguPing&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
         
       
     
