@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-06-17T04:23:12.359Z</updated>
+  <updated>2026-06-23T14:14:50.280Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-H34d3r</title>
+    <link href="https://lsp1025923.github.io/2026/06/23/MazeSec-H34d3r/"/>
+    <id>https://lsp1025923.github.io/2026/06/23/MazeSec-H34d3r/</id>
+    <published>2026-06-23T14:12:48.000Z</published>
+    <updated>2026-06-23T14:14:50.280Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;H34d3r&quot;&gt;&lt;a href=&quot;#H34d3r&quot; class=&quot;headerlink&quot; title=&quot;H34d3r&quot;&gt;&lt;/a&gt;H34d3r&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;靶机：H34d3r&lt;br&gt;作者：Sublarge&lt;br&gt;靶机ID:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-Intelligence_Agency</title>
@@ -491,31 +517,6 @@
     <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
     
     <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HackMyVm-Yuan114</title>
-    <link href="https://lsp1025923.github.io/2026/05/20/HackMyVm-Yuan114/"/>
-    <id>https://lsp1025923.github.io/2026/05/20/HackMyVm-Yuan114/</id>
-    <published>2026-05-20T08:40:34.000Z</published>
-    <updated>2026-05-20T08:48:07.296Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Yuan114&quot;&gt;&lt;a href=&quot;#Yuan114&quot; class=&quot;headerlink&quot; title=&quot;Yuan114&quot;&gt;&lt;/a&gt;Yuan114&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="HackMyVM" scheme="https://lsp1025923.github.io/tags/HackMyVM/"/>
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
     
   </entry>
   
