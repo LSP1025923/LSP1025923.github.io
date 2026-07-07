@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-07-06T06:11:37.614Z</updated>
+  <updated>2026-07-07T08:12:35.820Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MazeSec-Marcopy</title>
+    <link href="https://lsp1025923.github.io/2026/07/07/MazeSec-Marcopy/"/>
+    <id>https://lsp1025923.github.io/2026/07/07/MazeSec-Marcopy/</id>
+    <published>2026-07-07T08:11:27.000Z</published>
+    <updated>2026-07-07T08:12:35.820Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Marcopy&quot;&gt;&lt;a href=&quot;#Marcopy&quot; class=&quot;headerlink&quot; title=&quot;Marcopy&quot;&gt;&lt;/a&gt;Marcopy&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;靶机：Marcopy&lt;br&gt;作者：LingMj&lt;br&gt;靶机ID:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs_Banco</title>
@@ -483,31 +509,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Academy&quot;&gt;&lt;a href=&quot;#Academy&quot; class=&quot;headerlink&quot; title=&quot;Academy&quot;&gt;&lt;/a&gt;Academy&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-Papafrita</title>
-    <link href="https://lsp1025923.github.io/2026/05/20/TheHackersLabs-Papafrita/"/>
-    <id>https://lsp1025923.github.io/2026/05/20/TheHackersLabs-Papafrita/</id>
-    <published>2026-05-20T10:37:46.000Z</published>
-    <updated>2026-05-20T10:38:28.217Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Papafrita&quot;&gt;&lt;a href=&quot;#Papafrita&quot; class=&quot;headerlink&quot; title=&quot;Papafrita&quot;&gt;&lt;/a&gt;Papafrita&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
         
       
     
