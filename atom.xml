@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-07-27T10:54:30.645Z</updated>
+  <updated>2026-07-27T11:05:27.434Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>TheHackersLabs-Buda</title>
-    <link href="https://lsp1025923.github.io/2026/07/27/TheHackersLabs-Buda/"/>
-    <id>https://lsp1025923.github.io/2026/07/27/TheHackersLabs-Buda/</id>
-    <published>2026-07-27T10:53:56.000Z</published>
-    <updated>2026-07-27T10:54:30.645Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Buda&quot;&gt;&lt;a href=&quot;#Buda&quot; class=&quot;headerlink&quot; title=&quot;Buda&quot;&gt;&lt;/a&gt;Buda&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>TheHackersLabs-Huevos_Fritos</title>
@@ -505,6 +484,31 @@
         
     <summary type="html">&lt;h1 id=&quot;FUXA&quot;&gt;&lt;a href=&quot;#FUXA&quot; class=&quot;headerlink&quot; title=&quot;FUXA&quot;&gt;&lt;/a&gt;FUXA&lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;靶机：FUXA&lt;br&gt;作者：hel2zy&lt;br&gt;靶机ID:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MazeSec-Believe</title>
+    <link href="https://lsp1025923.github.io/2026/05/26/MazeSec-Believe/"/>
+    <id>https://lsp1025923.github.io/2026/05/26/MazeSec-Believe/</id>
+    <published>2026-05-26T12:27:38.000Z</published>
+    <updated>2026-05-26T12:28:31.876Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Believe&quot;&gt;&lt;a href=&quot;#Believe&quot; class=&quot;headerlink&quot;</summary>
         
       
     
