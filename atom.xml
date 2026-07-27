@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-07-27T08:17:41.916Z</updated>
+  <updated>2026-07-27T10:54:30.645Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TheHackersLabs-Buda</title>
+    <link href="https://lsp1025923.github.io/2026/07/27/TheHackersLabs-Buda/"/>
+    <id>https://lsp1025923.github.io/2026/07/27/TheHackersLabs-Buda/</id>
+    <published>2026-07-27T10:53:56.000Z</published>
+    <updated>2026-07-27T10:54:30.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Buda&quot;&gt;&lt;a href=&quot;#Buda&quot; class=&quot;headerlink&quot; title=&quot;Buda&quot;&gt;&lt;/a&gt;Buda&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
+    
+  </entry>
   
   <entry>
     <title>TheHackersLabs-JaulaCon</title>
@@ -493,31 +518,6 @@
     <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
     
     <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-Blind_Relay</title>
-    <link href="https://lsp1025923.github.io/2026/05/22/TheHackersLabs-Blind-Relay/"/>
-    <id>https://lsp1025923.github.io/2026/05/22/TheHackersLabs-Blind-Relay/</id>
-    <published>2026-05-21T22:30:38.000Z</published>
-    <updated>2026-05-21T22:33:38.141Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Blind-Relay&quot;&gt;&lt;a href=&quot;#Blind-Relay&quot; class=&quot;headerlink&quot; title=&quot;Blind Relay&quot;&gt;&lt;/a&gt;Blind Relay&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
     
   </entry>
   
