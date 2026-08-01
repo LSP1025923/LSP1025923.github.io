@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-07-30T13:49:19.531Z</updated>
+  <updated>2026-08-01T10:17:39.395Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HackerTheBox-Cap</title>
+    <link href="https://lsp1025923.github.io/2026/08/01/HackerTheBox-Cap/"/>
+    <id>https://lsp1025923.github.io/2026/08/01/HackerTheBox-Cap/</id>
+    <published>2026-08-01T10:16:55.000Z</published>
+    <updated>2026-08-01T10:17:39.395Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Cap&quot;&gt;&lt;a href=&quot;#Cap&quot; class=&quot;headerlink&quot; title=&quot;Cap&quot;&gt;&lt;/a&gt;Cap&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2026/08/01/HackerTheBox-Cap/fm.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="HackerTheBox" scheme="https://lsp1025923.github.io/tags/HackerTheBox/"/>
+    
+  </entry>
   
   <entry>
     <title>HackMyVm-Longshao</title>
@@ -491,32 +516,6 @@
     <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
     
     <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MazeSec-Oauth</title>
-    <link href="https://lsp1025923.github.io/2026/05/31/MazeSec-Oauth/"/>
-    <id>https://lsp1025923.github.io/2026/05/31/MazeSec-Oauth/</id>
-    <published>2026-05-31T15:15:23.000Z</published>
-    <updated>2026-06-01T08:47:29.029Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Oauth&quot;&gt;&lt;a href=&quot;#Oauth&quot; class=&quot;headerlink&quot; title=&quot;Oauth&quot;&gt;&lt;/a&gt;Oauth&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;靶机：Oauth&lt;br&gt;作者：Sublarge&lt;br&gt;靶机ID:</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="Mazesec" scheme="https://lsp1025923.github.io/tags/Mazesec/"/>
     
   </entry>
   
