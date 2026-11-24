@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-11-03T08:10:13.410Z</updated>
+  <updated>2026-11-24T07:11:35.347Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HackTheBox-DevHub</title>
+    <link href="https://lsp1025923.github.io/2026/11/24/HackTheBox-DevHub/"/>
+    <id>https://lsp1025923.github.io/2026/11/24/HackTheBox-DevHub/</id>
+    <published>2026-11-24T07:10:24.000Z</published>
+    <updated>2026-11-24T07:11:35.347Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;DevHub&quot;&gt;&lt;a href=&quot;#DevHub&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
+    
+    <category term="HackerTheBox" scheme="https://lsp1025923.github.io/tags/HackerTheBox/"/>
+    
+  </entry>
   
   <entry>
     <title>HackTheBox-Silentium</title>
@@ -483,31 +508,6 @@
         
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/2026/06/10/TheHackersLabs-Out-Of-Band/image-20260610105506423.png&quot; alt=&quot;image-20260610105506423&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;Out-Of-Band&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-Nave_Nodriza</title>
-    <link href="https://lsp1025923.github.io/2026/06/09/TheHackersLabs-Nave-Nodriza/"/>
-    <id>https://lsp1025923.github.io/2026/06/09/TheHackersLabs-Nave-Nodriza/</id>
-    <published>2026-06-09T15:31:43.000Z</published>
-    <updated>2026-06-09T15:34:17.091Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Nave-Nodriza&quot;&gt;&lt;a href=&quot;#Nave-Nodriza&quot; class=&quot;headerlink&quot; title=&quot;Nave Nodriza&quot;&gt;&lt;/a&gt;Nave Nodriza&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
         
       
     
