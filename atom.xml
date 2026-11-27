@@ -6,7 +6,7 @@
   <link href="https://lsp1025923.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsp1025923.github.io/"/>
-  <updated>2026-11-24T07:19:20.905Z</updated>
+  <updated>2026-11-27T07:24:51.242Z</updated>
   <id>https://lsp1025923.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HackTheBox-Craft</title>
+    <link href="https://lsp1025923.github.io/2026/11/27/HackTheBox-Craft/"/>
+    <id>https://lsp1025923.github.io/2026/11/27/HackTheBox-Craft/</id>
+    <published>2026-11-27T07:23:58.000Z</published>
+    <updated>2026-11-27T07:24:51.242Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Craft&quot;&gt;&lt;a href=&quot;#Craft&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>HackTheBox-DevHub</title>
@@ -482,32 +503,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Intelligence-Agency&quot;&gt;&lt;a href=&quot;#Intelligence-Agency&quot; class=&quot;headerlink&quot; title=&quot;Intelligence Agency&quot;&gt;&lt;/a&gt;Intelligence</summary>
-        
-      
-    
-    
-    
-    
-    <category term="靶机" scheme="https://lsp1025923.github.io/tags/%E9%9D%B6%E6%9C%BA/"/>
-    
-    <category term="TheHackersLabs" scheme="https://lsp1025923.github.io/tags/TheHackersLabs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TheHackersLabs-Out_Of_Band</title>
-    <link href="https://lsp1025923.github.io/2026/06/10/TheHackersLabs-Out-Of-Band/"/>
-    <id>https://lsp1025923.github.io/2026/06/10/TheHackersLabs-Out-Of-Band/</id>
-    <published>2026-06-10T02:53:42.000Z</published>
-    <updated>2026-06-10T02:55:30.572Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2026/06/10/TheHackersLabs-Out-Of-Band/image-20260610105506423.png&quot; alt=&quot;image-20260610105506423&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;Out-Of-Band&quot;&gt;&lt;a</summary>
         
       
     
